@@ -1,1 +1,3 @@
 [pass-gen-nine.vercel.app](https://pass-gen-nine.vercel.app/)
+
+Only for DeskTop, sorry, vpadlu robiti mobilnu versiu...

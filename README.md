@@ -1,1 +1,1 @@
-[pass-gen-nine.vercel.app](https://pass-gen-nine.vercel.app/)https://pass-gen-nine.vercel.app/
+[pass-gen-nine.vercel.app](https://pass-gen-nine.vercel.app/)
